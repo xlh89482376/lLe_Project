@@ -54,7 +54,7 @@ class Test_QQ_Login():
     @allure.severity(allure.severity_level.CRITICAL)
     @pytest.mark.usefixtures("click_me","click_qq","click_switch_btn")
     @pytest.mark.parametrize("test_num,account,passwd",yaml_data())
-    def test_qq_login(self,test_num,account,passwd):
+    def test_qq_login(self,test_num,'406056605','137182217077'):
         allure.attach("描述:验证腾讯视频qq登陆功能")
         r = Tool.open_logcat(test_num)
         #测试case
