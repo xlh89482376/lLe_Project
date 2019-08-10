@@ -10,7 +10,7 @@ def init_driver():
         # 版本
         'platformVersion': '5.0',
         # 设备号
-        'deviceName': os.popen('adb devices').readlines()[1][0],
+        'deviceName': 'cccb5637',
         # 包名
         'appPackage': 'com.tencent.news',
         # app名
