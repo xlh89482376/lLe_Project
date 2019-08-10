@@ -1,0 +1,1 @@
+{"uuid": "cfa1df47-eeb1-4a95-9cb2-4c411a708682", "children": ["cba37eee-b426-4073-81d8-d2e44a65b84e"], "befores": [{"name": "click_me", "status": "passed", "steps": [{"name": "打开app，点击我", "status": "passed", "start": 1565405177902, "stop": 1565405193591}], "start": 1565405177901, "stop": 1565405193591}], "start": 1565405177901, "stop": 1565405225231}

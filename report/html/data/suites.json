@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "test_qq_login",
+      "children" : [ {
+        "name" : "Test_QQ_Login",
+        "children" : [ {
+          "name" : "test_qq_login[qq_login_correct-464358039-xuanlonghua123]",
+          "uid" : "8e1eb4af35ac6646",
+          "parentUid" : "0357012ef18c62200259bb44e5345257",
+          "status" : "passed",
+          "time" : {
+            "start" : 1565405205342,
+            "stop" : 1565405225227,
+            "duration" : 19885
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "464358039", "'xuanlonghua123'", "'qq_login_correct'" ]
+        } ],
+        "uid" : "0357012ef18c62200259bb44e5345257"
+      } ],
+      "uid" : "6a27becb74319d7354d5e0a2e0500882"
+    } ],
+    "uid" : "af586ea5ffb1b57fad0f98a55a6d147c"
+  } ]
+}

@@ -1,0 +1,11 @@
+[ {
+  "uid" : "8e1eb4af35ac6646",
+  "name" : "test_qq_login[qq_login_correct-464358039-xuanlonghua123]",
+  "time" : {
+    "start" : 1565405205342,
+    "stop" : 1565405225227,
+    "duration" : 19885
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

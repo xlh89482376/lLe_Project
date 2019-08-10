@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "scripts.test_qq_login",
+    "children" : [ {
+      "name" : "test_qq_login[qq_login_correct-464358039-xuanlonghua123]",
+      "uid" : "8e1eb4af35ac6646",
+      "parentUid" : "07744fc223ae1f89eb1ab62ad0007b08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565405205342,
+        "stop" : 1565405225227,
+        "duration" : 19885
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "464358039", "'xuanlonghua123'", "'qq_login_correct'" ]
+    } ],
+    "uid" : "scripts.test_qq_login"
+  } ]
+}

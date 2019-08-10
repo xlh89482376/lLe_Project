@@ -1,0 +1,198 @@
+{
+  "uid" : "8e1eb4af35ac6646",
+  "name" : "test_qq_login[qq_login_correct-464358039-xuanlonghua123]",
+  "fullName" : "scripts.test_qq_login.Test_QQ_Login#test_qq_login[qq_login_correct-464358039-xuanlonghua123]",
+  "historyId" : "eea9936542b2c51695fd35beb7aff584",
+  "time" : {
+    "start" : 1565405205342,
+    "stop" : 1565405225227,
+    "duration" : 19885
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "click_me",
+    "time" : {
+      "start" : 1565405177901,
+      "stop" : 1565405193591,
+      "duration" : 15690
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "打开app，点击我",
+      "time" : {
+        "start" : 1565405177902,
+        "stop" : 1565405193591,
+        "duration" : 15689
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  }, {
+    "name" : "click_qq",
+    "time" : {
+      "start" : 1565405193591,
+      "stop" : 1565405199600,
+      "duration" : 6009
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1565405161904,
+      "stop" : 1565405177901,
+      "duration" : 15997
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "click_switch_btn",
+    "time" : {
+      "start" : 1565405199600,
+      "stop" : 1565405205340,
+      "duration" : 5740
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "输入用户名、密码，登陆",
+      "time" : {
+        "start" : 1565405205342,
+        "stop" : 1565405225227,
+        "duration" : 19885
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e56971965819881a",
+        "name" : "cfb50a79-5629-455d-afdd-eb5027fe455e-attachment.attach",
+        "source" : "e56971965819881a.attach",
+        "type" : "text/plain",
+        "size" : 39
+      } ],
+      "parameters" : [ {
+        "name" : "test_num",
+        "value" : "'qq_login_correct'"
+      }, {
+        "name" : "account",
+        "value" : "464358039"
+      }, {
+        "name" : "passwd",
+        "value" : "'xuanlonghua123'"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1565405225231,
+      "stop" : 1565405225231,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_qq_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_QQ_Login"
+  }, {
+    "name" : "host",
+    "value" : "localhost"
+  }, {
+    "name" : "thread",
+    "value" : "17144-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_qq_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "account",
+    "value" : "464358039"
+  }, {
+    "name" : "passwd",
+    "value" : "'xuanlonghua123'"
+  }, {
+    "name" : "test_num",
+    "value" : "'qq_login_correct'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e1eb4af35ac6646.json",
+  "parameterValues" : [ "464358039", "'xuanlonghua123'", "'qq_login_correct'" ]
+}

@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "localhost",
+    "children" : [ {
+      "name" : "17144-MainThread",
+      "children" : [ {
+        "name" : "test_qq_login[qq_login_correct-464358039-xuanlonghua123]",
+        "uid" : "8e1eb4af35ac6646",
+        "parentUid" : "6bd3d230ac58e903cab689add0b5167e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565405205342,
+          "stop" : 1565405225227,
+          "duration" : 19885
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "464358039", "'xuanlonghua123'", "'qq_login_correct'" ]
+      } ],
+      "uid" : "6bd3d230ac58e903cab689add0b5167e"
+    } ],
+    "uid" : "be30f600e0434356d35178c8efd2dc81"
+  } ]
+}

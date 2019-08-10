@@ -1,0 +1,18 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_qq_login[qq_login_correct-464358039-xuanlonghua123]",
+    "uid" : "8e1eb4af35ac6646",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1565405205342,
+      "stop" : 1565405225227,
+      "duration" : 19885
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "464358039", "'xuanlonghua123'", "'qq_login_correct'" ]
+  } ]
+}

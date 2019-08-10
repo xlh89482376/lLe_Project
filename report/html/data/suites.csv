@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Aug 10 10:46:45 CST 2019","Sat Aug 10 10:47:05 CST 2019","19885","scripts","test_qq_login","Test_QQ_Login","","","test_qq_login[qq_login_correct-464358039-xuanlonghua123]",""
